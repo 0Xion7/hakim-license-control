@@ -1,5 +1,7 @@
 {
   "version": 1,
-  "updatedUtc": "2026-08-30T10:44:17.9064152+00:00",
-  "revoked": []
+  "updatedUtc": "2026-08-30T10:59:45.0002594+00:00",
+  "revoked": [
+    "F5AE204A7119CFF7A80CE9820E3B344CBF55FDD6A515E164BA298C4576DCD08D"
+  ]
 }
